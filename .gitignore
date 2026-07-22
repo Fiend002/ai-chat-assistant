@@ -1,0 +1,17 @@
+# Environment
+.env
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Saved conversations (optional: comment out if you want to track them)
+data/conversations/*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
