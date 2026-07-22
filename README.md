@@ -55,10 +55,10 @@ ai-chat-assistant/
    ```
    Open `.env` and fill in your key:
    ```
-   LLM_PROVIDER=anthropic          # or "openai"
+   LLM_PROVIDER=anthropic         
    ANTHROPIC_API_KEY=sk-ant-xxxx
    OPENAI_API_KEY=sk-xxxx
-   MODEL_NAME=claude-sonnet-4-6    # model you want to use
+   MODEL_NAME=claude-sonnet-4-6    
    ```
 
 5. **Run it:**
